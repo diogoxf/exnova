@@ -184,7 +184,7 @@ li {
 
 .botao-resultado {
   margin-top: 20px;
-  padding: 10px;
+  padding: 20px;
   border-radius: 15px;
   text-transform: none;
   border-radius: 4px;
@@ -194,6 +194,7 @@ li {
   background-color: rgb(0, 151, 38);
   border: none;
   font-weight: 600;
+  font-size: 0.9em;
 }
 
 .identificar-resultado {
